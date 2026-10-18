@@ -1,0 +1,15 @@
+{
+  "name": "jp.fuji0k0.static-instances",
+  "version": "0.1.0",
+  "displayName": "Static Instances",
+  "description": "Static scene instance rendering for Unity URP, with per-instance LOD and culling.",
+  "unity": "6000.3",
+  "license": "MIT",
+  "author": { "name": "Fuji0k0" },
+  "dependencies": {
+    "com.unity.burst": "1.8.29",
+    "com.unity.collections": "2.6.6",
+    "com.unity.mathematics": "1.3.3",
+    "com.unity.render-pipelines.universal": "17.3.0"
+  }
+}
